@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/davewratten/Space%20Game%20Web/_apis/build/status/DaveWratten.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/davewratten/Space%20Game%20Web/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
